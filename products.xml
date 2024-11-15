@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldata>
+    <version>13.0</version>
+    <time>2015-12-01-23-30</time>
+    <data>
+        <item>
+            <compid>0123abc</compid>
+            <catpath>Komputery / Podzespoły komputerowe / Karty graficzne / ATI</catpath>
+            <catname>Karty graficzne ATI 9xxx</catname>
+            <photo>http://www.sklep.pl/zdjecie_produktu_1.jpg</photo>
+            <photo>http://www.sklep.pl/zdjecie_produktu_2.jpg</photo>
+            <url>http://www.sklep.pl/0123abc.php</url>
+            <vendor>Oxford</vendor>
+            <name><![CDATA[Oxford Language Club kurs języka angielskiego]]></name>
+            <price>60</price>
+            <partnr>11584-00-90G</partnr>
+            <desclong><![CDATA[Ucz się angielskiego z Oxford. Wszystkie poziomy od A1 do B2+ i zdobądź akredytowany certyfikat.]]></desclong>
+            <availability>1000+</availability>
+            <ean>5014016150821</ean>
+            <pdelivery>0</pdelivery>
+            <attribute name="czas trwania">6 miesięcy</attribute>
+            <attribute name="czas trwania">12 miesięcy</attribute>
+        </item>
+    </data>
+</xmldata>
